@@ -9,15 +9,21 @@
 	</a>
 </div>
 
+### About me
+- 🌱 I’m currently learning **EDA, Python, PostgreSQL, Tableau**
+- 📫 Reach me by [Telegram](https://t.me/Alehandr0vich), [email](mailto:alexandr.sliwin@yandex.ru)
+- 🌍 I speak Russian, English
 
 
-
-
-
-
+### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
+          
+
+
+
 <!--
 **shurikovyy/shurikovyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
