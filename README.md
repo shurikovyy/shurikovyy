@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi there 👋, I'm Alexandr</h1>
-	<h3>Junior Data Analyst from Moscow</h3>
+	<h3>Data Engineer from Moscow</h3>
 </div>
 
 <div id="socials" align="center">
@@ -11,7 +11,7 @@
 
 ### About me
 - 🌱 I’m currently learning **AirFlow, Apache Superset**
-- 🔭 I’m currently working as a data engineer at iCover
+- 🔭 I’m currently working as a **data engineer in the commercial alalytics departament** at iCover
 - 📫 Reach me by [Telegram](https://t.me/Alehandr0vich), [email](mailto:alexandr.sliwin@yandex.ru)
 - 🌍 I speak Russian, English
 
