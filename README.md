@@ -21,7 +21,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dbeaver/dbeaver-original.svg" title="python" width="40" height="40"/>&nbsp;
-          
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" title="python" width="40" height="40"/>&nbsp;
 
 
 
