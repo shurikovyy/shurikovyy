@@ -10,7 +10,8 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **EDA, Python, PostgreSQL, Tableau**
+- 🌱 I’m currently learning **AirFlow, Apache Superset**
+- 🔭 I’m currently working as a data engineer at iCover
 - 📫 Reach me by [Telegram](https://t.me/Alehandr0vich), [email](mailto:alexandr.sliwin@yandex.ru)
 - 🌍 I speak Russian, English
 
